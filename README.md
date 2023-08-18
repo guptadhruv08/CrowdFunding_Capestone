@@ -61,9 +61,6 @@ To run the demo follow these steps:
 
 Made by: -
 
-Name - NISCHAY CHIB</br>
-Student Id - 101427909
+Name - DHRUV GUPTA</br>
+Student Id - 101427928
 
-</br>
-Name - VISHAL PAWAR</br>
-Student Id - 101378105
