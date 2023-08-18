@@ -8,40 +8,6 @@ Three scenarios of blockchain crowdfunding terms: -
 2. When each milestone is reached and accepted by a predefined ratio of supporters, then a portion of the funds is released to facilitate project progress.
 3. When the product is created and released to the public, the funds can be released to the creator with or without donor acceptance independent of donor acceptance levels.
 
-The architecture of our project below: -
-
-![Genesis Project](./screenshots/Architecture.png)
-
-There are some screenshots of what we have made: -
-
-![Genesis Project](./screenshots/AddProject_SS.png)
-
-<center><figcaption>Add Project</figcaption></center></br>
-
-![Genesis Project](./screenshots/DeleteProject_SS.png)
-
-<center><figcaption>Delete Project</figcaption></center></br>
-
-![Genesis Project](./screenshots/Donations_SS.png)
-
-<center><figcaption>Donations for Project</figcaption></center></br>
-
-![Genesis Project](./screenshots/EditProject_SS.png)
-
-<center><figcaption>Edit Project</figcaption></center></br>
-
-![Genesis Project](./screenshots/Interface_SS.png)
-
-<center><figcaption>Project Interface</figcaption></center></br>
-
-![Genesis Project](./screenshots/PayFund_SS.png)
-
-<center><figcaption>Pay Fund For Project Project</figcaption></center></br>
-
-![Genesis Project](./screenshots/ProjectDescription_SS.png)
-
-<center><figcaption>Project Description</figcaption></center></br>
-
 ## Technology
 
 This demo uses:
